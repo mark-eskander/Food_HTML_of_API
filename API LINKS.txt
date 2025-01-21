@@ -1,0 +1,4 @@
+https://forkify-api.herokuapp.com/api/search?q=pizza
+https://forkify-api.herokuapp.com/api/search?q=beef
+https://forkify-api.herokuapp.com/api/search?q=chicken
+https://forkify-api.herokuapp.com/api/search?q=pasta
